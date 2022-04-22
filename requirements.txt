@@ -1,0 +1,4 @@
+Pillow==9.1.0
+Pyrogram==1.4.16
+PySimpleGUI==4.59.0
+python-dotenv==0.19.2
