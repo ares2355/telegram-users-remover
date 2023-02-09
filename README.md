@@ -5,7 +5,7 @@
 
 ## Скриншоты
 
-![photo5408922929313464843](https://user-images.githubusercontent.com/78380371/164618658-8a0a8b4a-a6a7-4bf8-a53a-a9b90aad562c.jpg)
+![11111](https://user-images.githubusercontent.com/78380371/217760752-33ffba12-bd46-4414-b2ae-c72cc52a434e.jpg)
 ![photo5408922929313464848](https://user-images.githubusercontent.com/78380371/164618710-bdf79c00-b1e9-4560-a8e2-1c37a5aaf418.jpg)
 
 ## Запуск
